@@ -15,6 +15,11 @@ public class App
 
     	//System.out.println( "Hello World!" );
 	logger.info("Hello from Log4j 2 first time");
+//<<<<<<< HEAD
+//	logger.info("Hello from Log4j 2 first time");
+//=======
+	logger.info("Hello from Log4j 2 third time");
+//>>>>>>> a36906421ff39cb0eeb907726735adaa443c0502
 
 
         
