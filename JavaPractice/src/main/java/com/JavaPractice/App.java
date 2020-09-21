@@ -14,7 +14,7 @@ public class App
         final Logger logger = LogManager.getLogger(App.class);
 
     	//System.out.println( "Hello World!" );
-        logger.info("Hello from Log4j 2 third time");
+	logger.info("Hello from Log4j 2 second time");
 
         
         
