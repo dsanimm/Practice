@@ -16,6 +16,7 @@ public class App
     	//System.out.println( "Hello World!" );
 	logger.info("Hello from Log4j 2 second time");
 
+
         
         
     }
